@@ -190,7 +190,7 @@ a {
 .containerHome>p {
     display: inline-block;
     padding: 3rem;
-    line-height: 2;
+    line-height: 1.7;
     word-spacing: 0.5pt;
     font-size: 1em;
 }
