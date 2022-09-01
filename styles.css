@@ -93,7 +93,7 @@ body {
 }
 
 .mind-img {
-    position: absolute;
+    position: relative;
     left: 70%;
     bottom: 10%;
     z-index: -1;
